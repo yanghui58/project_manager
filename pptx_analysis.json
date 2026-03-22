@@ -1,0 +1,376 @@
+{
+  "pptx1": [
+    {
+      "slide_index": 1,
+      "layout": "空白",
+      "elements": [
+        {
+          "name": "Text Box 2",
+          "type": "TEXT_BOX (17)",
+          "text": "信息系统项目管理"
+        },
+        {
+          "name": "Text Box 3",
+          "type": "TEXT_BOX (17)",
+          "text": "杨辉\n邮箱：yanghui58@xupt.edu.cn \n电话：13325473501"
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 4",
+          "type": "PLACEHOLDER (14)",
+          "text": "十一五规划教材                                          《信息系统项目管理》讲义"
+        },
+        {
+          "name": "Line 5",
+          "type": "AUTO_SHAPE (1)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目管理计划确定项目的执行、监控和收尾方式，所有与项目相关的计划称之为项目的子计划，包括：\n项目范围计划;\n项目进度计划;\n项目成本计划;\n项目质量计划;\n项目人力资源计划;\n项目沟通计划;\n风险应对计划;\n项目采购计划;\n变更控制和配置管理计划;\n项目管理计划应基准化，即至少应规定项目的范围、时间和成本方面的基准，以便据此考核项目的执行情况和管理项目绩效。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "3.1.1项目计划概述"
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目范围管理"
+        },
+        {
+          "name": "Line 4",
+          "type": "AUTO_SHAPE (1)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 5",
+          "type": "AUTO_SHAPE (1)",
+          "text": "十一五规划教材                                          《信息系统项目管理》讲义"
+        },
+        {
+          "name": "图片 2",
+          "type": "PICTURE (13)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目范围管理"
+        },
+        {
+          "name": "图片 3",
+          "type": "PICTURE (13)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "创建WBS的数据流如下图所示"
+        },
+        {
+          "name": "图片 2",
+          "type": "PICTURE (13)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        },
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目进度管理是为了保证项目按时完成，对项目所需的各个过程进行管理。 包括:规划进度、定义活动、 排列活动顺序、 估算活动持续时间、制订项目进度计划、控制进度。"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目进度管理过程包括：\n(1)规划进度管理： 为了规划、编制、管理 、执行和控制项目进度，制定政策 、 程序和文档。\n(2)定义活动： 识别和记录为完成项目可交付成果而需采取的具体活动。\n(3)排列活动顺序： 识别和记录项目活动之间的关系。\n(4)估算活动持续时间： 根据资源估算的结果， 估算完成单项活动所需工作时段数。\n(5)制订进度计划：分析活动顺序、持续时间、资源需求和进度制约因素,创建项目进度模型，落实项目执行和监控情况。\n (6)控制进度：监督项目状态，以更新项目进度和管理进度基准的变更。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        },
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "在项目实际进展中， 以上各过程会相互交叠和相互作用。 下表概括了项目进度管理的各个过程：\n"
+        },
+        {
+          "name": "图片 4",
+          "type": "PICTURE (13)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "图片 2",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "图片 5",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "图片 2",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "图片 5",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    }
+  ],
+  "pptx2": [
+    {
+      "slide_index": 1,
+      "layout": "空白",
+      "elements": [
+        {
+          "name": "Text Box 2",
+          "type": "TEXT_BOX (17)",
+          "text": "信息系统项目管理"
+        },
+        {
+          "name": "Text Box 3",
+          "type": "TEXT_BOX (17)",
+          "text": "杨辉\n邮箱：yanghui58@xupt.edu.cn \n电话：13325473501"
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "项目进度网络图"
+        },
+        {
+          "name": "图片 2",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4. 估算活动持续时间\n估算活动持续时间是根据资源估算的结果，估算完成单项活动所需工作时段数的过程。本过程的主要作用是确定完成每个活动所需花费的时间量。估算活动持续时间过程的数据流向如下图所示"
+        },
+        {
+          "name": "图片 3",
+          "type": "PICTURE (13)",
+          "text": ""
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.1 输入\n1 .项目管理计划\n估算活动持续时间中使用的项目管理计划组件主要包括：\n• 进度管理计划：规定了用于估算活动持续时间的方法和准确度， 以及所需的其他标准。\n• 范围基准：包含WBS和WBS字典，后者包括可能影响人力投入和持续时间估算的技术细节。\n2.项目文件\n可作为估算活动持续时间过程输入的项目文件主要包括：\n• 假设日志：其所记录的假设条件和制约因素有可能生成一个会影响项目进度的风险。\n• 风险登记册：单个项目风险可能影响资源的选择和可用性。\n• 活动属性：可能描述了确定的紧前或紧后关系、定义的提前量与滞后量以及可能影响持续时间估算的活动之间的逻辑关系。\n• 活动清单：列出了项目所需的、待估算的全部进度活动，这些活动的依赖关系和其他制约因素会对持续时间估算产生影响。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "• 里程碑清单：可能己经列出特定里程碑的计划实现日期，这可能影响持续时间估算。\n• 经验教训登记册：与人力投入和持续时间估算有关的经验教训登记册可以运用到项目后续阶段，以提高人力投入和持续时间估算的准确性。\n• 资源需求：估算的活动资源需求会对活动持续时间产生影响。 对于大多数活动来说，所分配的资源能否达到要求，将对其持续时间有显著影响。\n• 资源分解结构：其按照资源类别和资源类型提供了己识别资源的层级结构。\n• 资源日历：其中的资源可用性、资源类型和资源性质都会影响进度活动的持续时间。资源日历规定了在项目期间特定的项目资源何时可用及可用多久。\n• 项目团队派工单： 该派工单将合适的人员分派到团队，为项目配备人员。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.2 工具与技术\n1.专家判断\n估算活动持续时间过程中，应征求具备如下领域相关专业知识或接受过相关培训的个人或小组的意见， 涉及的领域包括： 进度计划的编制、 管理和控制； 估算的专业知识； 学科或应用知识。\n2.类比估算\n类比估算是一种使用相似活动或项目的历史数据来估算当前活动或项目的持续时间或成本的技术。类比估算以过去类似项目的参数值(如持续时间、预算、规模、重量和复杂性等) 为基础，来估算当前和未来项目的同类参数或指标。这是一种粗略的估算方法， 有时需要根据项目复杂性方面的己知差异进行调整，在项目详细信息不足时， 经常使用类比估算来估算项目持续时间。\n相对于其他估算技术，类比估算通常成本较低、耗时较少，但准确性也较低。类比估算可以针对整个项目或项目中的某个部分进行，也可以与其他估算方法联合使用。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.2 工具与技术\n3.参数估算\n参数估算是一种基于历史数据和项目参数，使用某种算法来计算成本或持续时间的估算技术。它是指利用历史数据之间的统计关系和其他变量，来估算诸如成本、预算和持续时间等活动参数。 把需要实施的工作量乘以完成单位工作量所需的工时，即可计算出持续时间。参数估算的准确性取决于参数模型的成熟度和基础数据的可靠性。参数估算可以针对整个项目或项目中的某个部分， 并可以与其他估算方法联合使用。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.2 工具与技术\n4.三点估算\n当历史数据不充分时， 通过考虑估算中的不确定性和风险， 可以提高活动持续时间估算的准确性。 使用三点估算有助于界定活动持续时间的近似区间：\n• 乐观时间(Optimistic Time，TO)： 在任何事情都顺利的情况下， 完成某项工作的时间。\n• 最 可 能 时 间(Most likely Time，TM ) : 正常情况下，完成某项工作的时间。\n• 悲 观 时 间 ( Pessimistic Time, TP) : 最不利的情况下,完成某项工作的时间。\n基于持续时间在三种估算值区间内的假定分布情况，可计算期望持续时间 TE."
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.2 工具与技术\n4.三点估算\n基于持续时间在三种估算值区间内的假定分布情况，可计算期望持续时间 TE.\n如果三个估算值服从三角分布，则:\nTE = (T0 + TM + TP)/ 3\n如果三个估算值服从 β分布，则:\nTE = (T0 + 4TM+ TP)/ 6"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        },
+        {
+          "name": "图片 1",
+          "type": "PICTURE (13)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "layout": "标题和内容",
+      "elements": [
+        {
+          "name": "Rectangle 3",
+          "type": "PLACEHOLDER (14)",
+          "text": "4.2 工具与技术\n5.自下而上估算\n自下而上估算是一种估算项目持续时间或成本的方法，通过从下到上逐层汇总 WBS 组成部分的估算而得到项目估算。如果无法以合理的可信度对活动持续时间进行估算， 则应将活动中的工作进一步细化，然后估算细化后的具体工作的持续时间，接着再汇总得到每个活动的持续时间。活动之间如果存在影响资源利用的依赖关系，则应该对相应的资源使用方式加以说明，并记录在活动资源需求中。"
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "PLACEHOLDER (14)",
+          "text": "信息系统项目的进度管理"
+        }
+      ]
+    }
+  ]
+}
